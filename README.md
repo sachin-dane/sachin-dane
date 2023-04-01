@@ -2,14 +2,165 @@
     Hi <img src='./assets/wave.gif' height='26' alt='there'>, I'm Sachin Dane
 </h1>
 
-#### I'm a Frontend developer from India 🇮🇳
+<p align='center' style='margin: 16px 4px 8px;'>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54A6FF&center=true&vCenter=true&multiline=true&width=710&height=70&lines=Welcome+to+my+GitHub+Profile;I+am+a+passionate+full-stack+software+engineer+from+India" alt="Welcome to my GitHub Profile. I am a passionate full-stack software developer from Pune, India." />
+</p>
 
-- 🏢 I'm currently working at **CES**
-- 🌱 I’m currently learning AWS Services
-- ⛴ I'm hardcore ReactJS/Angular guy
-- 💚 I'm actively preaching ReactJS based app
-- ⚙️ I use daily: `.js`, `.html`, `.css`, `.ts`
-- 🌍 I'm mostly active within the **ReactJS Community** & sometimes in **Angular**
-- 💬 Ping me about **ReactJS**, **Angular**, **NodeJS**, **Express**, **Web Application**
-- 📫 Reach me: (https://www.linkedin.com/in/sachin-dane-66313983/)
-- 😄 Pronouns: He/Him
+<h3 align='center' style='margin: 16px 4px;'>
+    <a href='https://www.linkedin.com/in/sachin-dane-66313983/'>My Portfolio Website</a>
+</h3>
+
+<h3 align="center">
+I am a Senior Full Stack Developer at Customized Energy Solution Pvt. Ltd., Pune, India.<br />
+A self-motivated Full Stack Developer with 6+ years of professional experience in multiple technologies and excellent analytical skills.<br />
+
+Highly adaptable in quickly changing technical environments and handle hassle situation. Ability to work effectively while working as a team member as well as individually.<br />
+Having experienced in Agile Methodologies, Scrum stories, and sprints. Contributions in the stack overflow community by giving answers and asking the question.<br />
+
+Skill Set: ReactJS, Angular 8+, Redux, NodeJS, JavaScript, Webpack, HTML, CSS, MySql, MongoDB, AWS, BootStrap, RabbitMQ, Git, Bitbucket, JIRA, websocket. Jenkins, Agile, SonarQube, Firebase, Pusher, Highchart (Charting Library), Real-Time Notification<br />
+
+</h3>
+
+<h3 align="center" style='margin: 32px 4px 8px; font-size: 24px;'>
+    Connect with me:
+</h3>
+<p align="center" style='margin: 16px 4px 8px;'>
+    <a href="https://twitter.com/DaneSachin" target="blank" rel="noreferrer">
+        <img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="https://twitter.com/DaneSachin" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+    </a>
+    <a href="mailto:sachindane4@gmail.com" target="blank" rel="noreferrer">
+        <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="mailto:sachindane4@gmail.com" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+    </a>
+    <a href="https://www.linkedin.com/in/sachin-dane-66313983/" target="blank" rel="noreferrer">
+        <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="https://www.linkedin.com/in/sachin-dane-66313983/" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+    </a>
+    <a href="https://www.facebook.com/sachindane4/" target="blank" rel="noreferrer">
+        <img align="center" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="https://www.facebook.com/sachindane4/" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+    </a>
+</p>
+
+<h3 align="center" style='margin: 32px 4px 8px; font-size: 24px;'>
+    Languages and Tools:
+</h3>
+<p align="center" style='margin: 16px 4px 32px;'>
+    <a href="https://angular.io/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="angular" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+    </a>
+    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+    </a>
+    <a href="https://axios-http.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/axios/axios-icon.svg" alt="axios" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+    </a>
+    <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+    </a>
+    <a href="https://bitbucket.org/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-icon.svg" alt="bitbucket" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+    </a>
+    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+    </a>
+    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+    </a>
+    <a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
+        <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+    </a>
+    <a href="https://www.cloudfoundry.org/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/cloudfoundry/cloudfoundry-icon.svg" alt="cloud-foundry" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+    </a>
+    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css3" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+    </a>
+    <a href="https://d3js.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+    </a>
+    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="django" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+    </a>
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+    </a>
+    <a href="https://eslint.org/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/eslint/eslint-icon.svg" alt="eslint" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+    </a>
+    <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+    </a>
+    <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+    </a>
+    <a href="https://fontawesome.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/font-awesome/font-awesome-icon.svg" alt="font-awesome" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+    </a>
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+    </a>
+    <a href="https://github.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+    </a>
+    <a href="https://heroku.com" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+    </a>
+    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+    </a>
+    <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+    </a>
+    <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+    </a>
+    <a href="https://www.json.org/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/json/json-icon.svg" alt="json" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+    </a>
+    <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+    </a>
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+    </a>
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+    </a>
+    <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+    </a>
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+    </a>
+    <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg" alt="npm" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+    </a>
+    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+    </a>
+    <a href="https://postman.com" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+    </a>
+    <a href="https://www.python.org" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+    </a>
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+    </a>
+    <a href="https://redux.js.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+    </a>
+    <a href="https://socket.io/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/socketio/socketio-icon.svg" alt="socket-io" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+    </a>
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+    </a>
+    <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+    </a>
+    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="visual-studio-code" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+    </a>
+    <a href="https://webpack.js.org" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" alt="webpack" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+    </a>
+</p>
